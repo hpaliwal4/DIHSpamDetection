@@ -1,0 +1,654 @@
+621 BodyBuildAdvice {'level': 2, 'degree': 5} -2
+622 JustaOrm {'level': 2, 'degree': 5} -1
+623 JFKMedicalNJ {'level': 2, 'degree': 5} -2
+624 CharlesFullert {'level': 2, 'degree': 5} -1
+625 BriceRitch {'level': 2, 'degree': 5} -1
+626 Jeffery91 {'level': 2, 'degree': 5} -3
+627 makeprofit11 {'level': 2, 'degree': 6} -1
+628 freehoodia {'level': 2, 'degree': 6} -2
+629 free_diettips {'level': 2, 'degree': 5} -2
+630 rickbosss {'level': 2, 'degree': 5} -1
+631 cash177 {'level': 2, 'degree': 6} -1
+632 BurnMyCarbs {'level': 2, 'degree': 6} -2
+633 vip5168 {'level': 2, 'degree': 5} -1
+634 hptestequipment {'level': 2, 'degree': 5} -1
+635 whealths {'level': 2, 'degree': 478} -1
+636 0503megumi {'level': 2, 'degree': 5} -1
+637 Aa1KK1 {'level': 2, 'degree': 6} -1
+638 bryamgmcbe {'level': 2, 'degree': 6} -1
+639 fcosmetics {'level': 2, 'degree': 394} -2
+640 easy_skincare {'level': 2, 'degree': 11} -2
+641 TextFlippa {'level': 2, 'degree': 7} -2
+642 lella724 {'level': 2, 'degree': 6} -1
+643 dhampton4 {'level': 2, 'degree': 6} -1
+644 corinna180 {'level': 2, 'degree': 5} -1
+645 CannabisCancer2 {'level': 2, 'degree': 5} -2
+646 Great_Quotes4U {'level': 2, 'degree': 5} -1
+647 DailyCouponds {'level': 2, 'degree': 8} -2
+648 KomiDaily {'level': 2, 'degree': 8} -2
+649 tebblovely {'level': 2, 'degree': 5} -1
+650 Ur_Skin {'level': 2, 'degree': 109} -2
+651 Shirely211 {'level': 2, 'degree': 6} -1
+652 _SkinCareNotes_ {'level': 2, 'degree': 5} -2
+653 Anti_Agingpro {'level': 2, 'degree': 6} -2
+654 Health8999 {'level': 2, 'degree': 366} -2
+0 iluvomotuo {'level': 2, 'degree': 5} -2
+1 HostDiscussion {'level': 2, 'degree': 5} -2
+2 4CheapHosting {'level': 2, 'degree': 5} -2
+3 private_proxy {'level': 2, 'degree': 5} -1
+4 freewebhosting4 {'level': 2, 'degree': 7} -2
+5 healthpromote {'level': 2, 'degree': 5} -1
+6 ReportCards {'level': 2, 'degree': 5} -2
+7 GreenhostIt {'level': 2, 'degree': 12} -2
+8 megasimplediet {'level': 2, 'degree': 5} -1
+9 wiredmom {'level': 2, 'degree': 6} -1
+10 KerryLangevin {'level': 2, 'degree': 11} -1
+11 uptimespy {'level': 2, 'degree': 7} -1
+12 yasmin6817 {'level': 2, 'degree': 310} -1
+13 odelette21 {'level': 2, 'degree': 5} -2
+14 andrewsquidoo {'level': 2, 'degree': 5} -1
+15 ResellDomains {'level': 2, 'degree': 5} -2
+16 ILuvHGcom {'level': 2, 'degree': 7} -1
+17 couragebuilder {'level': 2, 'degree': 5} -2
+18 homebizbuz {'level': 2, 'degree': 9} -2
+19 Kearneyeqs {'level': 2, 'degree': 6} -1
+20 MyHostNews {'level': 2, 'degree': 5} -2
+21 FindMyHost {'level': 2, 'degree': 8} -2
+22 leafbrendtran {'level': 2, 'degree': 364} -1
+23 Pfuhduhfss {'level': 2, 'degree': 6} -1
+24 Qjopkjofkdf {'level': 2, 'degree': 5} -1
+25 Afytvuvugi {'level': 2, 'degree': 64} -1
+27 Ahukhkm {'level': 2, 'degree': 89} -1
+28 GianniRapod {'level': 2, 'degree': 343} -1
+29 jkloren {'level': 2, 'degree': 5} -3
+30 HowellMarketing {'level': 2, 'degree': 5} -3
+31 Thomas_Bishara {'level': 2, 'degree': 5} -1
+32 Dede_Watson {'level': 2, 'degree': 5} -3
+33 LarryDevine {'level': 2, 'degree': 6} -1
+34 21cwr {'level': 2, 'degree': 5} -3
+35 BusNewEconomy {'level': 2, 'degree': 6} -3
+36 healthyseason {'level': 2, 'degree': 5} -1
+37 ChrisLevinson {'level': 2, 'degree': 5} -3
+38 JosephBushnell {'level': 2, 'degree': 5} -3
+39 RogerBezanis {'level': 2, 'degree': 6} -1
+40 YourPoolProduct {'level': 2, 'degree': 5} -1
+41 _susandaniels {'level': 2, 'degree': 5} -3
+42 ourhotstockpick {'level': 2, 'degree': 5} -2
+43 yomutra {'level': 2, 'degree': 7} -1
+44 JoomlaDesignSEO {'level': 2, 'degree': 5} -1
+45 StemCellsGlobal {'level': 2, 'degree': 5} -2
+46 crumblrrdenver {'level': 2, 'degree': 5} -2
+47 probiotics_news {'level': 2, 'degree': 5} -1
+48 NorvalRhodes {'level': 2, 'degree': 6} -3
+49 KaliMarcum {'level': 2, 'degree': 8} -2
+50 FitnessRadiantP {'level': 2, 'degree': 5} -2
+51 My_Real__Estate {'level': 2, 'degree': 5} -1
+52 SkinCareDoc {'level': 2, 'degree': 6} -1
+53 RonaldORedito {'level': 2, 'degree': 5} -1
+54 TAC_ModelingCo {'level': 2, 'degree': 5} -1
+55 yournutrition {'level': 2, 'degree': 5} -3
+56 katerinanikolas {'level': 2, 'degree': 9} -1
+57 nolagirlatx {'level': 2, 'degree': 5} -1
+58 SoDear2MyHeart {'level': 2, 'degree': 7} -1
+59 SharonHayes {'level': 2, 'degree': 7} -1
+60 lr3031 {'level': 2, 'degree': 5} -1
+61 NetworkingPro {'level': 2, 'degree': 5} -2
+62 LukeRomyn {'level': 2, 'degree': 6} -3
+63 gprajs {'level': 2, 'degree': 5} -1
+64 PAMsLOvE {'level': 2, 'degree': 7} -3
+65 DrAnthony {'level': 2, 'degree': 5} -3
+66 DanielJankovic {'level': 2, 'degree': 6} -1
+67 Songberries {'level': 2, 'degree': 5} -1
+68 HPSelf {'level': 2, 'degree': 6} -3
+69 pankajdasseo {'level': 2, 'degree': 7} -3
+70 VirendraSEO {'level': 2, 'degree': 6} -1
+71 BurtonBrown {'level': 2, 'degree': 6} -3
+72 learnhomeopathy {'level': 2, 'degree': 6} -2
+73 Clickez {'level': 2, 'degree': 8} -1
+74 TinaCook {'level': 2, 'degree': 5} -1
+75 DYBObhw {'level': 2, 'degree': 6} -2
+76 Take_Action__ {'level': 2, 'degree': 5} -2
+77 TheLightWizzard {'level': 2, 'degree': 5} -1
+78 QuantumJourney1 {'level': 2, 'degree': 5} -2
+79 KingofHealth {'level': 2, 'degree': 5} -3
+80 ChrisWidener {'level': 2, 'degree': 5} -1
+81 RodHarlan {'level': 2, 'degree': 5} -3
+82 EquusOnlineUni {'level': 2, 'degree': 5} -1
+83 EquusOnlineUni {'level': 2, 'degree': 5} -2
+84 b46u5 {'level': 2, 'degree': 6} -1
+85 BillZucker {'level': 2, 'degree': 5} -3
+86 admarketpros {'level': 2, 'degree': 5} -1
+87 DrJeffersnBoggs {'level': 2, 'degree': 6} -2
+88 johnnykowal {'level': 2, 'degree': 5} -3
+89 DrBermant {'level': 2, 'degree': 7} -1
+90 LexLevinrad {'level': 2, 'degree': 5} -3
+91 JohnLLeRoyJrMD {'level': 2, 'degree': 5} -1
+92 LollyDaskal {'level': 2, 'degree': 8} -3
+93 genmar {'level': 2, 'degree': 5} -1
+94 wentzeldk {'level': 2, 'degree': 7} -1
+95 Onetifyshop {'level': 2, 'degree': 5} -2
+96 TheBasedUpdate {'level': 2, 'degree': 5} -1
+97 swampy52 {'level': 2, 'degree': 6} -1
+98 veterantraveler {'level': 2, 'degree': 6} -3
+99 AineBelton {'level': 2, 'degree': 5} -2
+100 DolceFugo {'level': 2, 'degree': 5} -2
+101 SusanBoylesCat {'level': 2, 'degree': 5} -1
+102 ADH_Consult {'level': 2, 'degree': 5} -2
+103 PeteOlsen {'level': 2, 'degree': 5} -1
+104 Success_Search {'level': 2, 'degree': 5} -1
+105 Success_Search {'level': 2, 'degree': 5} -1
+106 OHMichael {'level': 2, 'degree': 5} -1
+107 MIKEY67 {'level': 2, 'degree': 9} -1
+108 wishnie {'level': 2, 'degree': 5} -1
+109 KidneyRegistry {'level': 2, 'degree': 6} -2
+110 RealMarketer {'level': 2, 'degree': 5} -2
+111 AmiAhuja {'level': 2, 'degree': 46243} -3
+112 _MIlM_ {'level': 2, 'degree': 5} -2
+113 successwalls {'level': 2, 'degree': 6} -2
+114 denverfoodguy {'level': 2, 'degree': 5} -1
+115 SocialNetDaily {'level': 2, 'degree': 6} -2
+116 joinmetoday {'level': 2, 'degree': 5} -1
+117 mlmcampus {'level': 2, 'degree': 5} -1
+118 tweet_flirt {'level': 2, 'degree': 5} -1
+119 TravisSharp {'level': 2, 'degree': 5} -1
+120 LarryWentz {'level': 2, 'degree': 5} -1
+121 aCryptoUser {'level': 2, 'degree': 6} -1
+122 ceebee308 {'level': 2, 'degree': 6} -1
+123 Success_with_BP {'level': 2, 'degree': 6} -1
+124 JoeBonsai {'level': 2, 'degree': 5} -3
+125 simonwhite {'level': 2, 'degree': 6} -3
+126 simonwhite {'level': 2, 'degree': 5} -3
+127 JoyBing {'level': 2, 'degree': 5} -1
+128 MartyMisner {'level': 2, 'degree': 5} -1
+129 hootsuite {'level': 2, 'degree': 5} -2
+130 roamking {'level': 2, 'degree': 283} -1
+131 NewcloudTaniya {'level': 2, 'degree': 5} -1
+132 zaida361 {'level': 2, 'degree': 280} -3
+133 tbsartono {'level': 2, 'degree': 6} -1
+134 MyCloudHosting {'level': 2, 'degree': 11} -2
+135 AlbertineAtabay {'level': 2, 'degree': 5} -3
+136 cogzidel_kumar {'level': 2, 'degree': 5} -2
+137 WebDesignsonlin {'level': 2, 'degree': 5} -2
+138 ChaeDechico3274 {'level': 2, 'degree': 1412} -1
+139 BriannaGoldman {'level': 2, 'degree': 11} -3
+140 TradeForex2FXco {'level': 2, 'degree': 6} -2
+141 TweeLanceJobs {'level': 2, 'degree': 8} -2
+142 SofiaMcentee972 {'level': 2, 'degree': 5} -1
+143 maggie_more {'level': 2, 'degree': 6} -1
+144 maggie_more {'level': 2, 'degree': 5} -1
+145 enetworklink {'level': 2, 'degree': 6} -1
+146 FRCorey {'level': 2, 'degree': 7} -2
+147 resellerhost777 {'level': 2, 'degree': 6} -2
+148 Joselyniy74 {'level': 2, 'degree': 5} -3
+149 georgekt68 {'level': 2, 'degree': 6} -3
+150 JohnLeahman {'level': 2, 'degree': 6} -1
+151 madberry {'level': 2, 'degree': 5} -1
+152 All4uneed {'level': 2, 'degree': 6} -1
+153 henryarthurs {'level': 2, 'degree': 11} -1
+154 Peter_Brn {'level': 2, 'degree': 5} -1
+155 biz_start {'level': 2, 'degree': 5} -1
+156 BartS11 {'level': 2, 'degree': 28} -1
+157 eileeve {'level': 2, 'degree': 7} -1
+158 newgameoflife {'level': 2, 'degree': 5} -1
+159 Network4747 {'level': 2, 'degree': 6} -1
+160 joinronjackson {'level': 2, 'degree': 8} -3
+161 stevekimball {'level': 2, 'degree': 5} -1
+162 Articles2View {'level': 2, 'degree': 27} -2
+163 vickiberry {'level': 2, 'degree': 5} -3
+164 TopReviewsToday {'level': 2, 'degree': 551} -2
+165 Jones381 {'level': 2, 'degree': 5} -3
+166 drjoyce_knudsen {'level': 2, 'degree': 5} -3
+167 1name1day {'level': 2, 'degree': 8} -1
+168 Natalitimes {'level': 2, 'degree': 6} -1
+169 mjcryptox {'level': 2, 'degree': 5} -2
+170 Online_Income {'level': 2, 'degree': 5} -2
+171 Terghss {'level': 2, 'degree': 6} -1
+172 Ecsokey {'level': 2, 'degree': 5} -1
+173 hostingspecial {'level': 2, 'degree': 5} -2
+174 hostingspecial {'level': 2, 'degree': 5} -2
+175 microjober {'level': 2, 'degree': 6} -2
+176 PharmanDSDinc {'level': 2, 'degree': 6} -1
+177 OTC_BREAKOUT {'level': 2, 'degree': 5} -1
+178 OTCSTOCKEXPRESS {'level': 2, 'degree': 6} -2
+179 Ujjwal_krishna {'level': 2, 'degree': 6} -3
+180 WebHealthMag {'level': 2, 'degree': 6} -2
+181 StartupPro {'level': 2, 'degree': 5} -1
+182 panachemodels {'level': 2, 'degree': 5} -3
+183 NewestArticle {'level': 2, 'degree': 5} -1
+184 Paydaymaster {'level': 2, 'degree': 5} -1
+185 dolifeup12 {'level': 2, 'degree': 11} -1
+186 Article_Home {'level': 2, 'degree': 5} -2
+187 articlefriends {'level': 2, 'degree': 6} -1
+188 articlefeeds {'level': 2, 'degree': 7} -1
+189 brentnhunter {'level': 2, 'degree': 5} -3
+190 serviceteamltd {'level': 2, 'degree': 5} -2
+191 realKELSYdavis {'level': 2, 'degree': 5} -1
+192 hijabinayah {'level': 2, 'degree': 5} -1
+193 Mrssamyleo {'level': 2, 'degree': 8} -1
+194 Shantaedg85 {'level': 2, 'degree': 5} -1
+195 e_FashionPolice {'level': 2, 'degree': 11} -2
+196 pearly_papules {'level': 2, 'degree': 6} -1
+197 mauiwowialoha {'level': 2, 'degree': 5} -2
+198 faizasajid {'level': 2, 'degree': 5} -1
+199 easyaffiliate1 {'level': 2, 'degree': 5} -1
+200 contest4that {'level': 2, 'degree': 5} -1
+201 freebiesdeal {'level': 2, 'degree': 5} -1
+202 Myartsubmit {'level': 2, 'degree': 12} -1
+203 Mojos_Plan {'level': 2, 'degree': 9} -2
+204 Canuckclicks {'level': 2, 'degree': 11} -2
+205 shellmeister84 {'level': 2, 'degree': 7} -1
+206 BlancaPeakMedia {'level': 2, 'degree': 5} -1
+207 MetroServices1 {'level': 2, 'degree': 6} -2
+208 TopDogSweeps {'level': 2, 'degree': 6} -1
+209 SuperTopWatch {'level': 2, 'degree': 5} -2
+210 netdatabiz {'level': 2, 'degree': 6} -2
+211 Cheryl_Gates {'level': 2, 'degree': 5} -1
+212 kaywasse {'level': 2, 'degree': 6} -2
+213 Clearing_Acne {'level': 2, 'degree': 9} -2
+214 kamzou08 {'level': 2, 'degree': 10} -2
+215 MarciJordan {'level': 2, 'degree': 6} -1
+216 olafjonsek {'level': 2, 'degree': 5} -1
+217 LaPeregrina {'level': 2, 'degree': 5} -2
+218 HallaBurns {'level': 2, 'degree': 5}  -1
+219 LenaKW {'level': 2, 'degree': 5} -2
+220 growing_young {'level': 2, 'degree': 21} -2
+221 massagehire {'level': 2, 'degree': 5} -1
+222 newcosmetics {'level': 2, 'degree': 5} -2
+223 HealthyLIvingTM {'level': 2, 'degree': 6} -1
+224 healthandbeauti {'level': 2, 'degree': 20} -2
+225 Everlasting_4U {'level': 2, 'degree': 5} -1
+226 acneanswer {'level': 2, 'degree': 25} -2
+227 DailyFinds4U {'level': 2, 'degree': 7} -2
+228 apothecary21c {'level': 2, 'degree': 8} -1
+229 indianpharmacy {'level': 2, 'degree': 9} -2
+230 Cancers_Curable {'level': 2, 'degree': 5} -2
+231 Quinessence {'level': 2, 'degree': 7} -2
+232 DealzExpress {'level': 2, 'degree': 5} -1
+233 ClearAcneFast {'level': 2, 'degree': 23} -2
+234 Prevention_Now {'level': 2, 'degree': 8} -1
+235 Healthy_Bodyz {'level': 2, 'degree': 5} -2
+236 hautebeauty {'level': 2, 'degree': 6} -2
+237 avontaylor {'level': 2, 'degree': 8} -1
+238 sexyskincare {'level': 2, 'degree': 8} -2
+239 BestHairColor4U {'level': 2, 'degree': 5} -2
+240 SisterJewelry {'level': 2, 'degree': 6} -1
+241 VintageJunkAmy {'level': 2, 'degree': 8} -1
+242 TedMakovsky {'level': 2, 'degree': 59395} -3
+243 davidasarnow {'level': 2, 'degree': 5} -2
+244 quoteshash {'level': 2, 'degree': 5} -1
+245 valerie2350 {'level': 2, 'degree': 5} -1
+246 AmazinBabyStore {'level': 2, 'degree': 6} -2
+247 skincareguide4u {'level': 2, 'degree': 6} -2
+248 4Fragrances {'level': 2, 'degree': 8} -2
+249 ezBuysg {'level': 2, 'degree': 5} -2
+250 AzelexStore {'level': 2, 'degree': 12} -2
+251 AcneBomb {'level': 2, 'degree': 12} -1
+252 LimitlessLife3 {'level': 2, 'degree': 6} -1
+253 Kindraihc {'level': 2, 'degree': 6} -2
+254 rbg1818 {'level': 2, 'degree': 5} -3
+255 kate238 {'level': 2, 'degree': 5} -1
+256 Christopher9378 {'level': 2, 'degree': 6} -1
+257 2getfitforlife {'level': 2, 'degree': 6} -1
+258 SolucionAcne {'level': 2, 'degree': 15} -1
+259 Shanekagn33 {'level': 2, 'degree': 200} -1
+260 Isidragt94 {'level': 2, 'degree': 13} -2
+261 accutane_online {'level': 2, 'degree': 12} -1
+262 Melodeerq19 {'level': 2, 'degree': 13} -1
+263 AnnaJohnson6 {'level': 2, 'degree': 6} -1
+264 AndrewHigs {'level': 2, 'degree': 6} -1
+265 Estrellacy34 {'level': 2, 'degree': 12} -1
+266 angelrixie {'level': 2, 'degree': 16} -1
+267 Camelia6231 {'level': 2, 'degree': 7} -1
+268 Buffy9034 {'level': 2, 'degree': 10} -1
+269 Cherysh36 {'level': 2, 'degree': 12} -1
+270 xlashes {'level': 2, 'degree': 14} -2
+271 Austinrf03 {'level': 2, 'degree': 12} -1
+272 TomBrighten1 {'level': 2, 'degree': 5} -1
+273 acneworld {'level': 2, 'degree': 5} -2
+274 EasyHealthInfo {'level': 2, 'degree': 15} -1
+275 Starlals08 {'level': 2, 'degree': 198} -1
+276 Graciavp39 {'level': 2, 'degree': 13} -1
+277 careexposedskin {'level': 2, 'degree': 5} -1
+278 Clorindasa83 {'level': 2, 'degree': 11} -1
+279 Ladonna964 {'level': 2, 'degree': 5} -1
+280 deadseagiftshop {'level': 2, 'degree': 5} -1
+281 Lesleybd89 {'level': 2, 'degree': 13} -1
+282 Madelineyk02 {'level': 2, 'degree': 16} -1
+283 TomWallace123 {'level': 2, 'degree': 9} -1
+284 TomMarten1 {'level': 2, 'degree': 6} -1
+285 wise4acne {'level': 2, 'degree': 10} -1
+286 babytoys2 {'level': 2, 'degree': 5} -1
+287 AirTheReal {'level': 2, 'degree': 11} -1
+288 MariaJolpe {'level': 2, 'degree': 5} -1
+289 Donnahj88 {'level': 2, 'degree': 192} -1
+290 Winnievb76 {'level': 2, 'degree': 13} -1
+291 How2exercise {'level': 2, 'degree': 7} -1
+292 Lanieus47 {'level': 2, 'degree': 13} -1
+293 Florcr39 {'level': 2, 'degree': 12} -1
+294 nailforums {'level': 2, 'degree': 8} -2
+295 acnefreeface {'level': 2, 'degree': 14} -1
+296 Pearledp35 {'level': 2, 'degree': 12} -1
+297 Kaitlinpc38 {'level': 2, 'degree': 12} -1
+298 Shaynemz59 {'level': 2, 'degree': 13} -1
+299 SkinCancerAnna {'level': 2, 'degree': 7} -1
+300 Pandorahj33 {'level': 2, 'degree': 14} -1
+301 Albayb27 {'level': 2, 'degree': 13} -1
+302 Flofs94 {'level': 2, 'degree': 183} -1
+303 Carliehl15 {'level': 2, 'degree': 12} -1
+304 Richellemd99 {'level': 2, 'degree': 187} -1
+305 Kaitlynht16 {'level': 2, 'degree': 12} -1
+306 Remediosrx84 {'level': 2, 'degree': 185} -1
+307 Revitalizebskin {'level': 2, 'degree': 20} -1
+308 healtbea1 {'level': 2, 'degree': 30} -1
+309 Lovenm94 {'level': 2, 'degree': 239} -1
+310 Cindaaq47 {'level': 2, 'degree': 13} -1
+311 Arlindazk89 {'level': 2, 'degree': 13} -1
+312 AgConBAS {'level': 2, 'degree': 7} -1
+313 Loviedy22 {'level': 2, 'degree': 15} -1
+314 Assuntaes54 {'level': 2, 'degree': 237} -1
+315 betterlive1 {'level': 2, 'degree': 15} -1
+316 Teofilare72 {'level': 2, 'degree': 16} -1
+317 Teresiaqu88 {'level': 2, 'degree': 14} -1
+318 mossaze {'level': 2, 'degree': 6} -2
+319 Leticiabm32 {'level': 2, 'degree': 12} -1
+320 Mairevv05 {'level': 2, 'degree': 11} -1
+321 Fawnou10 {'level': 2, 'degree': 16} -1
+322 Tifanyhx09 {'level': 2, 'degree': 15} -1
+323 accutaneshop {'level': 2, 'degree': 9} -1
+324 Aureabf86 {'level': 2, 'degree': 14} -1
+325 Sunnyrn72 {'level': 2, 'degree': 12} -1
+326 Dionnesg92 {'level': 2, 'degree': 12} -1
+327 Desirezf93 {'level': 2, 'degree': 204} -1
+328 recipeinfo {'level': 2, 'degree': 28} -2
+329 Rosannyo78 {'level': 2, 'degree': 12} -1
+330 Kristianhw94 {'level': 2, 'degree': 11} -1
+331 Lizabethmu18 {'level': 2, 'degree': 14} -1
+332 Tiannadt69 {'level': 2, 'degree': 11} -1
+333 erikmatula {'level': 2, 'degree': 38} -1
+334 acneomg {'level': 2, 'degree': 16} -1
+335 Joanieic25 {'level': 2, 'degree': 12} -1
+336 Neldaen68 {'level': 2, 'degree': 13} -1
+337 Mikakm82 {'level': 2, 'degree': 13} -1
+338 Jennieir06 {'level': 2, 'degree': 17} -1
+339 Mellissadb87 {'level': 2, 'degree': 12} -1
+340 Allakk89 {'level': 2, 'degree': 16} -1
+341 Nettieju97 {'level': 2, 'degree': 226}
+342 Jerleneye10 {'level': 2, 'degree': 12} -1
+343 Cathryngr73 {'level': 2, 'degree': 17} -1
+344 Londaka48 {'level': 2, 'degree': 13} -1
+345 Sharellkf07 {'level': 2, 'degree': 12} -1
+346 Yukoy86 {'level': 2, 'degree': 12} -1
+347 Britanyox13 {'level': 2, 'degree': 12} -1
+348 Theresiawi97 {'level': 2, 'degree': 224} -1
+349 Mayelm21 {'level': 2, 'degree': 198} -1
+350 Tyeshatn59 {'level': 2, 'degree': 14} -1
+351 Chanelbf91 {'level': 2, 'degree': 13} -1
+352 Pearlinerx35 {'level': 2, 'degree': 13} -1
+353 Terrilynpm62 {'level': 2, 'degree': 13} -1
+354 Venettaao61 {'level': 2, 'degree': 13} -1
+355 Sheritany06 {'level': 2, 'degree': 13} -1
+356 Thomasinecw81 {'level': 2, 'degree': 13} -1
+357 ScottieFranklin {'level': 2, 'degree': 5} -1
+358 Sanacure {'level': 2, 'degree': 7} -2
+359 curetopsoriasis {'level': 2, 'degree': 6} -1
+360 AquaveraShampoo {'level': 2, 'degree': 9} -2
+361 doyaleadultacne {'level': 2, 'degree': 7} -2
+362 Julie_Ale {'level': 2, 'degree': 6} -1
+363 cosmeking {'level': 2, 'degree': 10} -1
+364 docpsoriasis {'level': 2, 'degree': 15} -1
+365 SamDaniels33 {'level': 2, 'degree': 10} -1
+366 RetinA4wrinkles {'level': 2, 'degree': 7} -1
+367 BabarHussainIND {'level': 2, 'degree': 12} -3
+368 SusanSmith180 {'level': 2, 'degree': 5} -1
+369 acnetalk123 {'level': 2, 'degree': 6} -1
+370 DietShop {'level': 2, 'degree': 5} -1 
+371 healthnow1 {'level': 2, 'degree': 9} -2
+372 Jeanettexe56 {'level': 2, 'degree': 11} -1
+373 Tips4ClearSkin {'level': 2, 'degree': 7} -1 
+374 BeautifulBody4U {'level': 2, 'degree': 16} -1
+375 Meldafm77 {'level': 2, 'degree': 14} -1
+376 NiceBodyhealthy {'level': 2, 'degree': 5} -2
+377 GetClearerSkin {'level': 2, 'degree': 6} -1
+378 CharisSkinCare {'level': 2, 'degree': 11} -2
+379 skincaretips2u {'level': 2, 'degree': 9} -2
+380 ismaelpq {'level': 2, 'degree': 6} -2
+381 innovationdivaz {'level': 2, 'degree': 6} -2
+382 susan1886 {'level': 2, 'degree': 10} -1
+383 drwebcode {'level': 2, 'degree': 6} -1
+384 angela2586 {'level': 2, 'degree': 7} -1
+385 LisaPerosi {'level': 2, 'degree': 6} -1
+386 scarsremover {'level': 2, 'degree': 6} -1
+387 annihil8uracne {'level': 2, 'degree': 5} -1
+388 FreeOfAcne {'level': 2, 'degree': 8} -1
+389 beautyhealth {'level': 2, 'degree': 17} -1
+390 OrganicSalonSys {'level': 2, 'degree': 13} -2
+391 JackHolland8 {'level': 2, 'degree': 6} -1
+392 HairStyleReview {'level': 2, 'degree': 8} -1
+393 ElinoreFontane {'level': 2, 'degree': 7} -1
+394 DiseaseList {'level': 2, 'degree': 12} -1
+395 netshoping {'level': 2, 'degree': 5} -1
+396 Neva52 {'level': 2, 'degree': 5} -3
+397 skinexpert010 {'level': 2, 'degree': 6} -3
+398 lovemary9 {'level': 2, 'degree': 8} -2
+399 healthyourskin {'level': 2, 'degree': 13} -1
+400 Mason5Arthurs {'level': 2, 'degree': 5} -1
+401 facemud {'level': 2, 'degree': 14} -2
+402 SophieWinters1 {'level': 2, 'degree': 6} -1 
+403 Lucillebeauty {'level': 2, 'degree': 13} -1 
+404 ImBlackLikeThat {'level': 2, 'degree': 6} -1
+405 BrandiandGirls {'level': 2, 'degree': 6} -1
+406 Shycarol {'level': 2, 'degree': 5} -1
+407 OG_Skincare {'level': 2, 'degree': 5} -2
+408 nnissel77 {'level': 2, 'degree': 5} -2
+409 TheLaserTrader {'level': 2, 'degree': 11} -1
+410 hsija1021 {'level': 2, 'degree': 5} -1
+411 Gearldinetdd {'level': 2, 'degree': 9} -1
+412 PlasticSurgNova {'level': 2, 'degree': 8} -2 
+413 hairremova {'level': 2, 'degree': 8} -2
+414 ninabeautyskin {'level': 2, 'degree': 527} -1
+415 SpecificBeauty {'level': 2, 'degree': 5} -1
+416 CureForRosacea {'level': 2, 'degree': 6} -2
+417 LondonNWright {'level': 2, 'degree': 5} -1
+418 DKOYEProduct {'level': 2, 'degree': 5} -2
+419 pobcios {'level': 2, 'degree': 432} -1
+420 Vigue1 {'level': 2, 'degree': 6} -1
+421 Louise4yl {'level': 2, 'degree': 8}-1
+422 mixmaxnow {'level': 2, 'degree': 5}-1
+423 weightlosscode {'level': 2, 'degree': 9}-1
+424 VeggieClothGirl {'level': 2, 'degree': 17}-1
+425 jennifercooley3 {'level': 2, 'degree': 12}-1
+426 creativedude11 {'level': 2, 'degree': 6}-1
+427 vilantiaging {'level': 2, 'degree': 9}-1
+428 removemyacne {'level': 2, 'degree': 6}-1
+429 CureAcneNatural {'level': 2, 'degree': 6}-1
+430 nimyure {'level': 2, 'degree': 7}-1
+431 jasuce {'level': 2, 'degree': 14}-1
+432 Mandytseng2 {'level': 2, 'degree': 5}-1
+433 Ayurvedaways {'level': 2, 'degree': 8}-2
+434 rchaz2005 {'level': 2, 'degree': 6}-1
+435 Valoriedt {'level': 2, 'degree': 6}-1
+436 steverson99 {'level': 2, 'degree': 7}-1
+437 PerfecttDoctor {'level': 2, 'degree': 7}-1
+438 beautty4you {'level': 2, 'degree': 20}-1
+439 gurukulnehdar {'level': 2, 'degree': 6}-1
+440 ITBestseller {'level': 2, 'degree': 5}-1
+441 HelpBreast {'level': 2, 'degree': 9}-3
+442 LovelySale {'level': 2, 'degree': 5}-2
+443 MISSOOPSsays {'level': 2, 'degree': 6}-2
+444 Rizikhan5 {'level': 2, 'degree': 5}-2
+445 arielhastings {'level': 2, 'degree': 5}-2
+446 healthywoman542 {'level': 2, 'degree': 20}-1
+447 SimonaAnja {'level': 2, 'degree': 6}-1
+448 dezweftr {'level': 2, 'degree': 5}-1
+449 may16895 {'level': 2, 'degree': 7}-1
+450 Airkvne {'level': 2, 'degree': 5}-1
+451 mildred168 {'level': 2, 'degree': 5}-1
+452 HealthRockstar {'level': 2, 'degree': 6}-2
+453 Home_Cures {'level': 2, 'degree': 18}-2
+454 Computerlocity {'level': 2, 'degree': 7}-2
+455 try163 {'level': 2, 'degree': 6}-3
+456 dgsunball {'level': 2, 'degree': 7}-1
+457 Whitening_Pills {'level': 2, 'degree': 7}-2
+458 remediesandlife {'level': 2, 'degree': 6}-2
+459 BeleiberBuzz {'level': 2, 'degree': 5}-3
+460 SkinCare2us {'level': 2, 'degree': 7}-2
+461 agusjohn74 {'level': 2, 'degree': 6}-1
+462 HollyHillPharm {'level': 2, 'degree': 5}-2
+463 karen_w_brown {'level': 2, 'degree': 5}-1
+464 Bristydawn {'level': 2, 'degree': 6}-1
+465 Vincenzaen58 {'level': 2, 'degree': 5}-1
+466 Treatment4Acne9 {'level': 2, 'degree': 9}-1
+467 perperfumes {'level': 2, 'degree': 6}-2
+468 MarioDouglas63 {'level': 2, 'degree': 15}-1
+469 BlackSeedHealth {'level': 2, 'degree': 7}-2
+470 Peg625 {'level': 2, 'degree': 6}-1
+471 Lahomarwl {'level': 2, 'degree': 7}-1
+472 EdevaKuan {'level': 2, 'degree': 9}-1
+473 BodyAllureSpa {'level': 2, 'degree': 7}-2
+474 stella18874 {'level': 2, 'degree': 6}-1
+475 bobbimsanchez {'level': 2, 'degree': 5}-1
+476 AdenBrinkley {'level': 2, 'degree': 28}-1
+477 mauriciogc77 {'level': 2, 'degree': 7}-1
+478 AmberHCarter {'level': 2, 'degree': 7}-1
+479 MedicalDeals {'level': 2, 'degree': 7}-2
+480 MoroccanNatural {'level': 2, 'degree': 5}-2
+481 jospehclanton22 {'level': 2, 'degree': 14}-1
+482 AsiaEcommerce {'level': 2, 'degree': 7}-2
+483 Microworld_ {'level': 2, 'degree': 7}-2
+484 StylesCare {'level': 2, 'degree': 10}-2
+485 beachskincare {'level': 2, 'degree': 7}-1
+486 skytexla {'level': 2, 'degree': 5}-2
+487 liu103 {'level': 2, 'degree': 6}-1
+488 MakeupPack {'level': 2, 'degree': 6}-2
+489 dolores178 {'level': 2, 'degree': 9}-1
+490 Elsat3b {'level': 2, 'degree': 7}-1
+491 beautylish {'level': 2, 'degree': 6}-2
+492 Couponcodeblogs {'level': 2, 'degree': 6}-2
+493 jennyfacialskin {'level': 2, 'degree': 10}-1
+494 nuevaskincare {'level': 2, 'degree': 12}-1
+495 Teresamp97 {'level': 2, 'degree': 272}-1
+496 zahikasfia {'level': 2, 'degree': 5}-1
+497 Enriquetamj46 {'level': 2, 'degree': 5}-1
+498 beautyusfit {'level': 2, 'degree': 5}-2
+499 Manavpn {'level': 2, 'degree': 6}-1
+500 msdsmiller {'level': 2, 'degree': 6}-1
+501 activatedair {'level': 2, 'degree': 408}-2
+502 makeup4youu {'level': 2, 'degree': 10}-2
+503 ecorea2010 {'level': 2, 'degree': 5}-2
+504 CheapCatFood {'level': 2, 'degree': 5}-1
+505 storezone {'level': 2, 'degree': 5}-3
+506 Paulajxo {'level': 2, 'degree': 5}-1
+507 minny158 {'level': 2, 'degree': 16}-1
+508 claarahburbank2 {'level': 2, 'degree': 7}-1
+509 women_things {'level': 2, 'degree': 10}-1
+510 linke2 {'level': 2, 'degree': 5}-1
+511 easrakhan {'level': 2, 'degree': 9}-3
+512 joehollinsg {'level': 2, 'degree': 5}-1
+513 AntiAgeKing {'level': 2, 'degree': 6}-1
+514 jusend {'level': 2, 'degree': 11}-1
+515 PandoraMin1 {'level': 2, 'degree': 8}-1
+516 R_tweeter {'level': 2, 'degree': 11}-1
+517 sele9na {'level': 2, 'degree': 8}-1
+518 acshlee {'level': 2, 'degree': 6}-1
+519 saund7ra {'level': 2, 'degree': 8}-1
+520 ch3andra {'level': 2, 'degree': 7}-1
+521 beautytip33 {'level': 2, 'degree': 624}-1
+522 hhairstyles {'level': 2, 'degree': 562}-1
+523 tannings {'level': 2, 'degree': 531}-1
+524 eczemaandcure {'level': 2, 'degree': 5}-2
+525 goang21 {'level': 2, 'degree': 412}-1
+526 Nobuko8608 {'level': 2, 'degree': 216}-1
+527 Keitha794 {'level': 2, 'degree': 139}-1
+528 JennaAndKatie {'level': 2, 'degree': 7}-2
+529 leilamakeup {'level': 2, 'degree': 7}-2
+530 sharon2680 {'level': 2, 'degree': 6}-1
+531 Alma11982 {'level': 2, 'degree': 476}-1
+532 MFLVCLUB {'level': 2, 'degree': 7}-1
+533 antiageing2u {'level': 2, 'degree': 9}-1
+534 lisaplvnv {'level': 2, 'degree': 6}-1
+535 shoeca {'level': 2, 'degree': 6}-1
+536 BeautyWomenCare {'level': 2, 'degree': 5}-2
+537 Makeup_Makeup {'level': 2, 'degree': 6}-1
+538 Acne_Assassin {'level': 2, 'degree': 12}-1
+539 ur41ce {'level': 2, 'degree': 8}-2
+540 DeadSeaCos {'level': 2, 'degree': 6}-2
+541 InfinityMedInst {'level': 2, 'degree': 8}-2
+542 hairfear {'level': 2, 'degree': 5}-2
+543 Neill31 {'level': 2, 'degree': 6}-1
+544 antiaging_god {'level': 2, 'degree': 7}-2
+545 MakeUrMoneyFast {'level': 2, 'degree': 5}-2
+546 Verena937 {'level': 2, 'degree': 5}-1
+547 Lasandra984 {'level': 2, 'degree': 5}-1
+548 antiagingfeed {'level': 2, 'degree': 6}-2
+549 nikeyaya {'level': 2, 'degree': 286}-1
+550 ev4andrade {'level': 2, 'degree': 5}-2
+551 MelaniJordan {'level': 2, 'degree': 6}-1
+552 woff5678 {'level': 2, 'degree': 17}-1
+553 linyeen {'level': 2, 'degree': 7}-1
+554 LindaNguyen604 {'level': 2, 'degree': 6}-3
+555 dadairs {'level': 2, 'degree': 5}-1
+556 VintageCornerUS {'level': 2, 'degree': 5}-2
+557 TopTenKim {'level': 2, 'degree': 5}-3
+558 1financiables {'level': 2, 'degree': 5}-1
+559 SkinQuench {'level': 2, 'degree': 5}-2
+560 TMBABW {'level': 2, 'degree': 5}-2
+561 healthTalking {'level': 2, 'degree': 8}-2
+562 justin_trott {'level': 2, 'degree': 5}-3
+563 House_Of_Shakti {'level': 2, 'degree': 5}-2
+564 Jameyfpe {'level': 2, 'degree': 10}-1
+565 ToryToniniqj241 {'level': 2, 'degree': 5}-1
+566 alexandra8401 {'level': 2, 'degree': 12}-1
+567 castilloleah {'level': 2, 'degree': 5}-1
+568 Rtyhni {'level': 2, 'degree': 5}-1
+569 Rskhks {'level': 2, 'degree': 5}-1
+570 wendygwe {'level': 2, 'degree': 6}-1
+571 ericawhere {'level': 2, 'degree': 6}-3
+572 abigale87 {'level': 2, 'degree': 5}-1
+573 eunicebga {'level': 2, 'degree': 6}-3
+574 Eudoracc {'level': 2, 'degree': 5}-3
+575 beautycaretrend {'level': 2, 'degree': 566}-1
+576 SkinD0CT0R {'level': 2, 'degree': 5}-2
+577 NoniWorldTeam {'level': 2, 'degree': 9}-2
+578 bustcash {'level': 2, 'degree': 6}-1
+579 makereamone {'level': 2, 'degree': 397}-1
+580 wandalosshr {'level': 2, 'degree': 5}-1
+581 mariahaircare {'level': 2, 'degree': 484}-1
+582 creativeroke {'level': 2, 'degree': 5}-1
+583 Portia_Kantz {'level': 2, 'degree': 5}-1
+584 Alana_Puccio {'level': 2, 'degree': 5}-1
+585 Christian_Chuai {'level': 2, 'degree': 5}-1
+586 skincaretips18 {'level': 2, 'degree': 253}-1
+587 dnadyer {'level': 2, 'degree': 11}-1
+588 gracefacecare {'level': 2, 'degree': 383}-1
+589 angisbeautyshop {'level': 2, 'degree': 8}-1
+590 Natura_SkinCare {'level': 2, 'degree': 10}-2
+591 Always_New_You {'level': 2, 'degree': 5}-1
+592 DermacuraGlobal {'level': 2, 'degree': 5}-2
+593 online_clothes {'level': 2, 'degree': 7}-1
+594 Acne_Info {'level': 2, 'degree': 7}-2
+595 OCA_comingclean {'level': 2, 'degree': 7}-3
+596 libertees {'level': 2, 'degree': 10}-1
+597 LuvBeautyDeals {'level': 2, 'degree': 7}-1
+598 Azjjie {'level': 2, 'degree': 5}-1
+599 foryourhaironly {'level': 2, 'degree': 5}-1
+600 DonnasDollhouse {'level': 2, 'degree': 5}-3
+601 beautifiles {'level': 2, 'degree': 6}-2
+602 WilliamsMike17 {'level': 2, 'degree': 5}-3
+603 sexybrownqueen1 {'level': 2, 'degree': 5}-3
+604 saloninflorida {'level': 2, 'degree': 5}-2
+605 nypwshoes {'level': 2, 'degree': 5}-2
+606 SoTyraBanks {'level': 2, 'degree': 6}-1
+607 multipowershop {'level': 2, 'degree': 5}-2
+608 iemily99 {'level': 2, 'degree': 5}-1
+609 AMCosmetic {'level': 2, 'degree': 5}-1
+610 BeautyMeditate {'level': 2, 'degree': 5}-1
+611 YorkeCosmetics {'level': 2, 'degree': 5}-2
+612 Mellissanwl {'level': 2, 'degree': 5}-3
+613 oawsz {'level': 2, 'degree': 5}-1
+614 Marjoryiop {'level': 2, 'degree': 5}-1
+615 Christinauys {'level': 2, 'degree': 8}-1
+616 xzhao83 {'level': 2, 'degree': 5}-1
+617 toyobap {'level': 2, 'degree': 5}-1
+618 sidney576 {'level': 2, 'degree': 6}-1
+619 Umkehrosmose {'level': 2, 'degree': 5}-3
+620 CarlosMonaVie {'level': 2, 'degree': 5}-3

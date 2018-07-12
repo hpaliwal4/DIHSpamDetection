@@ -7,5 +7,5 @@ auth = tweepy.OAuthHandler("7kqHnqMbfdEuqaEArutYWJXnc","cVfxGeB4zhGlVbH6IOCFbPbT
 auth.set_access_token("1006577385632743424-lYR67hW7iRS9lWwlgtNbFjUlDn1bC9","U2Dij7g1oap5f21gR0j0UqNcAjLGiNedatdYjDE1VoMTl")
 
 api = tweepy.API(auth)
-user = api.lookup_users(user_ids = [4544191393])
-print(user[0]._json)
+user = api.get_user(179014215)
+print(user._json)
